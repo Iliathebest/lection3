@@ -3,4 +3,4 @@ void Method2(string msg)
 {
     Console.WriteLine(msg);
 } 
-Method2(msg);
+Method2("text msg");
